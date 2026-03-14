@@ -5,26 +5,27 @@ Overview of Data
 Bank loans are a crucial financial tool that enables individuals and businesses to achieve their goals and manage financial needs. However, it's essential for borrowers to understand the terms, costs, and responsibilities associated with loans to make informed financial decisions.
 
 Fields Used in Data-
-Loan ID
-Address State:
-Employee Length:
-Employee Title:
-Grade:
-Sub Grade:
-Home Ownership:
-Issue Date:
-Last Credit Pull Date:
-Last Payment Date:
-Loan Status:
-Next Payment Date:
-Purpose:
-Term:
-Verification Status:
-Annual Income:
-DTI (Debt-to-Income Ratio):
-Instalment:
-Interest Rate:
-Loan Amount:
+
+1.Loan ID
+2.Address State:
+3.Employee Length:
+4.Employee Title:
+5.Grade:
+6.Sub Grade:
+7.Home Ownership:
+8.Issue Date:
+9.Last Credit Pull Date:
+10.Last Payment Date:
+11.Loan Status:
+12.Next Payment Date:
+13.Purpose:
+14.Term:
+15.Verification Status:
+16.Annual Income:
+17.DTI (Debt-to-Income Ratio):
+18.Instalment:
+19.Interest Rate:
+20.Loan Amount:
 
 Dashboard Summary
 
