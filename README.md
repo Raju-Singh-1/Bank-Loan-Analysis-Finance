@@ -49,7 +49,7 @@ Bad Loan Application Percentage
 Bad Loan Applications
 Bad Loan Funded Amount:
 Bad Loan Total Received Amount
-
+"C:\Users\DELL\Pictures\Screenshots\Summary.png"
 
 DASHBOARD 2: OVERVIEW
 1. Monthly Trends by Issue Date (Line Chart)
@@ -68,6 +68,8 @@ Decision-making: Loan data analysis supports the decision-making process when ev
 Fraud Detection: Banks use data analysis to detect fraudulent loan applications and activities. Unusual patterns, inconsistencies, or discrepancies in loan data can trigger fraud alerts.
 
 Customer Insights: Analysing loan data provides insights into customer behaviour, preferences, and needs. Banks can use these insights to tailor loan products and marketing strategies to specific customer segments.
+
+
 
 
 
