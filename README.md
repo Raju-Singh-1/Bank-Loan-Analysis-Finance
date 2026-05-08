@@ -70,6 +70,9 @@ Fraud Detection: Banks use data analysis to detect fraudulent loan applications 
 Customer Insights: Analysing loan data provides insights into customer behaviour, preferences, and needs. Banks can use these insights to tailor loan products and marketing strategies to specific customer segments.
 
 
+<img width="806" height="403" alt="Summary" src="https://github.com/user-attachments/assets/77eabeca-5a21-4ffe-931d-5c252d082749" />
+<img width="922" height="425" alt="image" src="https://github.com/user-attachments/assets/caeeeeb7-dce4-416a-a186-935566d36a3d" />
+
 
 
 
